@@ -33,11 +33,10 @@ print("{} in: {} / {}".format(name, city, country))
 '''
 
 
-'''
-Step2:
-latitude = ...
-longitude = ...
-elevation = ...
+#Step2:
+latitude = position['latitude']
+longitude = position['longitude']
+elevation = position['elevation']
 '''
 
 '''
